@@ -1,0 +1,6 @@
+openai
+langgraph
+python-dotenv
+python-docx
+streamlit
+tiktoken
